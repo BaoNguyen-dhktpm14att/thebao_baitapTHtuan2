@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D1CCCC"
+    tools:context=".MainActivity3">
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="1541dp"
+        android:layout_height="878dp"
+        android:background="#FFFFFF"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="2dp" />
+
+    <View
+        android:id="@+id/view4"
+        android:layout_width="1520dp"
+        android:layout_height="225dp"
+        android:background="#FFFFFF"
+        tools:layout_editor_absoluteX="-1dp"
+        tools:layout_editor_absoluteY="995dp" />
+
+    <View
+        android:id="@+id/view5"
+        android:layout_width="1533dp"
+        android:layout_height="197dp"
+        android:background="#FFFFFF"
+        tools:layout_editor_absoluteX="15dp"
+        tools:layout_editor_absoluteY="1390dp" />
+
+    <View
+        android:id="@+id/view6"
+        android:layout_width="1540dp"
+        android:layout_height="525dp"
+        android:background="#FFFFFF"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="1955dp" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="523dp"
+        android:layout_height="425dp"
+        app:srcCompat="@drawable/book"
+        tools:layout_editor_absoluteX="-33dp"
+        tools:layout_editor_absoluteY="42dp" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="803dp"
+        android:layout_height="121dp"
+        android:text="Nguyên hàm tích phân và ứng dụng"
+        android:textColor="#0E0B0B"
+        android:textSize="50sp"
+        android:textStyle="normal|bold"
+        tools:layout_editor_absoluteX="506dp"
+        tools:layout_editor_absoluteY="67dp" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cung cấp bởi tiki Trading"
+        android:textColor="#232121"
+        android:textSize="50"
+        android:textStyle="normal|bold"
+        tools:layout_editor_absoluteX="506dp"
+        tools:layout_editor_absoluteY="170dp" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="359dp"
+        android:layout_height="66dp"
+        android:text="141.800 đ"
+        android:textColor="#E40C0C"
+        android:textSize="45"
+        tools:layout_editor_absoluteX="506dp"
+        tools:layout_editor_absoluteY="269dp" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="141.000"
+        android:textSize="45"
+        tools:layout_editor_absoluteX="506dp"
+        tools:layout_editor_absoluteY="359dp" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="497dp"
+        android:layout_height="104dp"
+        app:srcCompat="@drawable/m__gim_gi____lu"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="525dp" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="429dp"
+        android:layout_height="85dp"
+        app:srcCompat="@drawable/xem_ti__y"
+        tools:layout_editor_absoluteX="571dp"
+        tools:layout_editor_absoluteY="535dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="678dp"
+        android:layout_height="144dp"
+        android:text="Mã Giảm Giá"
+        android:textColor="#191717"
+        android:textSize="45"
+        app:backgroundTint="#FFFFFF"
+        tools:layout_editor_absoluteX="47dp"
+        tools:layout_editor_absoluteY="681dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:backgroundTint="#FFEB3B"
+        tools:layout_editor_absoluteX="87dp"
+        tools:layout_editor_absoluteY="726dp" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="605dp"
+        android:layout_height="135dp"
+        android:text="Áp Dụng"
+        android:textSize="45"
+        tools:layout_editor_absoluteX="830dp"
+        tools:layout_editor_absoluteY="680dp" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="300dp"
+        android:layout_height="110dp"
+        android:text="Mua Sau"
+        android:textColor="#2196F3"
+        android:textSize="60"
+        tools:layout_editor_absoluteX="1200dp"
+        tools:layout_editor_absoluteY="397dp" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="994dp"
+        android:layout_height="75dp"
+        android:text="bạn có phiếu quà tặng tiki/got it/urbot?"
+        android:textColor="#0C0B0B"
+        android:textSize="60"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="1080dp" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="447dp"
+        android:layout_height="71dp"
+        android:text="nhập tại đây?"
+        android:textColor="#171414"
+        android:textSize="60"
+        tools:layout_editor_absoluteX="1068dp"
+        tools:layout_editor_absoluteY="1080dp" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="755dp"
+        android:layout_height="149dp"
+        android:text="Tạm Tính"
+
+        android:textColor="#0E0D0D"
+        android:textSize="100"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="1410dp" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="141.800đ"
+        android:textColor="#F41010"
+        android:textSize="80"
+        tools:layout_editor_absoluteX="1096dp"
+        tools:layout_editor_absoluteY="1432dp" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="634dp"
+        android:layout_height="150dp"
+        android:text="Thành Tiền"
+        android:textColor="#888282"
+        android:textSize="100"
+        tools:layout_editor_absoluteX="50dp"
+        tools:layout_editor_absoluteY="2000dp" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="141.800đ"
+        android:textColor="#E30A0A"
+        android:textSize="80"
+        tools:layout_editor_absoluteX="1096dp"
+        tools:layout_editor_absoluteY="2010dp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="1485dp"
+        android:layout_height="215dp"
+        android:background="#F44336"
+        android:text="Tiến Hành Đặt Hàng"
+        android:textSize="80"
+        android:textStyle="bold"
+        app:backgroundTint="#F44336"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="2220dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
